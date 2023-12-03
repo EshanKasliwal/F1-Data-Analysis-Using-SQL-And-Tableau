@@ -1,4 +1,4 @@
-# F1 Exploratory Data Analysis Using SQL & Tableau
+# F1 Exploratory Data Analysis Using SQL 
 
 <div style="text-align: center;">
   <img height="415" src="https://media.contentapi.ea.com/content/dam/gin/images/2023/02/f123-gametile-16x9.jpg.adapt.crop1x1.767w.jpg" alt="Centered Image">
@@ -9,7 +9,7 @@ Explore the exciting world of Formula 1 through this Exploratory Data Analysis (
 
 The project encompasses a variety of SQL queries, each designed to extract valuable information and generate meaningful visualizations. As you navigate through the analysis, you'll gain a deeper understanding of Formula 1's historical and competitive landscape.
 
-We Perform EDA on given Formula 1 dataset using SQL, and find answers to different queries:
+We Perform EDA on a given Formula 1 dataset using SQL, and find answers to different queries:
 
 # 1. Finding Locations That Hosted Maximum Number Of Races
 Identifying the venues that have hosted the highest number of Formula 1 races, shedding light on the most prominent locations in the sport's history.
