@@ -19,12 +19,12 @@ Identifying the venues that have hosted the highest number of Formula 1 races, s
 # 2. Finding Circuits That Hosted Opening Races In Each Season
 Pinpointing the circuits that hosted the inaugural races of Formula 1 seasons, showcasing the historical significance of these tracks.
 
-![ !\[Alt text\](plot2.png)](Plot-png/plot2.png)
+![Alt text](Plot-png/plot2.png)
 
 # 3. Number Of Races Hosted By Every Country
 Exploring the distribution of Formula 1 races across different countries, providing insights into the global reach and popularity of the sport.
 
-![!\[Alt text\](plot3.png)](Plot-png/plot3.png)
+![!\[!\\[Alt text\\](plot3.png)\](Plot-png/plot3.png)](Plot-png/plot3.png)
 
 # 4. All-Time Constructor Points and Leaders 
 Analyzing the cumulative constructor points earned by teams over the years, unveiling the leading constructors in Formula 1 history.
